@@ -1,21 +1,12 @@
 {
-	"name": "webapi-i-challenge",
+	"name": "sprint13-ders1",
 	"version": "1.0.0",
-	"description": "WEB API I Challenge",
+	"description": "Sprint 13 Ders 1 projesi",
 	"main": "index.js",
 	"scripts": {
 		"server": "nodemon index.js"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/LambdaSchool/webapi-i-challenge.git"
-	},
 	"keywords": [],
-	"author": "Lambda School",
-	"bugs": {
-		"url": "https://github.com/LambdaSchool/webapi-i-challenge/issues"
-	},
-	"homepage": "https://github.com/LambdaSchool/webapi-i-challenge#readme",
 	"devDependencies": {
 		"nodemon": "^2.0.20"
 	},
